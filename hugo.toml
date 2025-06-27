@@ -1,4 +1,4 @@
-baseURL = 'https://dhanuja-prathapa.github.io/blog/'
+baseURL = 'https://blog.dhanuja.com/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "PaperMod"
