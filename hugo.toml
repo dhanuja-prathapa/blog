@@ -2,3 +2,6 @@ baseURL = 'https://blog.dhanuja.com/'
 languageCode = 'en-us'
 title = 'Dhanuja’s Delta Logs'
 theme = "PaperMod"
+
+[params]
+  defaultTheme = "light"
