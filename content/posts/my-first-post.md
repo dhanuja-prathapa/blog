@@ -3,12 +3,12 @@ title = 'My First Post'
 date = 2025-06-26T21:21:44+10:00
 draft = false
 [cover]
-    image = "https://databricks.com/wp-content/uploads/2021/10/databricks-logo.png"
+    image = "https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png"
 +++
 
 # My Journey to Databricks Data Engineer Associate Certification
 
-![Databricks Logo](https://databricks.com/wp-content/uploads/2021/10/databricks-logo.png)
+![Databricks Logo](https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png)
 
 ## Introduction
 
