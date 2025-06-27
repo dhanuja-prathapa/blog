@@ -8,8 +8,6 @@ draft = false
 
 # My Journey to Databricks Data Engineer Associate Certification
 
-![Databricks Logo](https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png)
-
 ## Introduction
 
 In 2025, I set out to become a certified Databricks Data Engineer Associate. This post shares my journey, resources, and tips for anyone aspiring to achieve this milestone in data engineering.
