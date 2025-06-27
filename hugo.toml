@@ -1,4 +1,88 @@
 baseURL = 'https://blog.dhanuja.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Dhanuja Prathapa | Data Engineering Blog'
 theme = "PaperMod"
+
+# Enable emoji support
+enableEmoji = true
+
+[params]
+  author = "Dhanuja Prathapa"
+  description = "Insights and tutorials on data engineering, Databricks, Apache Spark, and modern data platforms"
+  
+  # Show reading time, word count, etc.
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  # Profile mode home page
+  [params.profileMode]
+    enabled = true
+    title = "Dhanuja Prathapa"
+    subtitle = "Data Engineer | Databricks Certified | Big Data Enthusiast"
+    imageUrl = "https://avatars.githubusercontent.com/u/placeholder"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "Dhanuja Prathapa"
+
+  # Social icons
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://linkedin.com/in/dhanuja-prathapa"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/dhanuja-prathapa"
+
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:dhanuja@example.com"
+
+# Menu configuration
+[[menu.main]]
+  identifier = "home"
+  name = "🏠 Home"
+  url = "/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "posts"
+  name = "📝 Posts"
+  url = "/posts/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "about"
+  name = "👤 About"
+  url = "/about/"
+  weight = 30
+
+[[menu.main]]
+  identifier = "tags"
+  name = "🏷️ Tags"
+  url = "/tags/"
+  weight = 40
+
+# Markup configuration for better rendering
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    noClasses = false
+    codeFences = true
+    guessSyntax = true
+    lineNos = true
+    style = "github"

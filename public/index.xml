@@ -1,7 +1,45 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>My New Hugo Site</title><link>https://blog.dhanuja.com/</link><description>Recent content on My New Hugo Site</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Thu, 26 Jun 2025 21:21:44 +1000</lastBuildDate><atom:link href="https://blog.dhanuja.com/index.xml" rel="self" type="application/rss+xml"/><item><title>My First Post</title><link>https://blog.dhanuja.com/posts/my-first-post/</link><pubDate>Thu, 26 Jun 2025 21:21:44 +1000</pubDate><guid>https://blog.dhanuja.com/posts/my-first-post/</guid><description>&lt;h1 id="my-journey-to-databricks-data-engineer-associate-certification">My Journey to Databricks Data Engineer Associate Certification&lt;/h1>
-&lt;p>&lt;img alt="Databricks Logo" loading="lazy" src="https://databricks.com/wp-content/uploads/2021/10/databricks-logo.png">&lt;/p>
-&lt;h2 id="introduction">Introduction&lt;/h2>
-&lt;p>In 2025, I set out to become a certified Databricks Data Engineer Associate. This post shares my journey, resources, and tips for anyone aspiring to achieve this milestone in data engineering.&lt;/p>
-&lt;hr>
-&lt;h2 id="why-databricks">Why Databricks?&lt;/h2>
-&lt;p>Databricks is a leading platform for big data analytics and machine learning. Its unified analytics approach and seamless integration with Apache Spark make it a top choice for data engineers.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Dhanuja Prathapa | Data Engineering Blog</title><link>https://blog.dhanuja.com/</link><description>Recent content on Dhanuja Prathapa | Data Engineering Blog</description><generator>Hugo -- 0.147.9</generator><language>en-us</language><lastBuildDate>Fri, 27 Jun 2025 10:00:00 +1000</lastBuildDate><atom:link href="https://blog.dhanuja.com/index.xml" rel="self" type="application/rss+xml"/><item><title>About Me</title><link>https://blog.dhanuja.com/about/</link><pubDate>Fri, 27 Jun 2025 10:00:00 +1000</pubDate><guid>https://blog.dhanuja.com/about/</guid><description>&lt;h1 id="-hello-im-dhanuja-prathapa">👋 Hello, I&amp;rsquo;m Dhanuja Prathapa&lt;/h1>
+&lt;div align="center">
+&lt;p>&lt;img alt="Profile" loading="lazy" src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=300&amp;h=300&amp;fit=crop&amp;crop=face">&lt;/p>
+&lt;p>&lt;em>Data Engineer | Problem Solver | Continuous Learner&lt;/em>&lt;/p>
+&lt;/div>
+&lt;h2 id="-about-me">🚀 About Me&lt;/h2>
+&lt;p>Welcome to my corner of the internet! I&amp;rsquo;m a passionate &lt;strong>Data Engineer&lt;/strong> with a deep love for transforming raw data into meaningful insights. My journey in the world of big data has been filled with exciting challenges, continuous learning, and the satisfaction of building robust data pipelines.&lt;/p>
+&lt;h2 id="-professional-journey">💼 Professional Journey&lt;/h2>
+&lt;ul>
+&lt;li>🎯 &lt;strong>Databricks Certified Data Engineer Associate&lt;/strong> (2025)&lt;/li>
+&lt;li>🏗️ &lt;strong>5+ years&lt;/strong> of experience in data engineering&lt;/li>
+&lt;li>☁️ Expert in cloud platforms (Azure, AWS, GCP)&lt;/li>
+&lt;li>⚡ Specialized in Apache Spark and Delta Lake&lt;/li>
+&lt;/ul>
+&lt;h2 id="-technical-skills">🛠️ Technical Skills&lt;/h2>
+&lt;h3 id="languages--frameworks">&lt;strong>Languages &amp;amp; Frameworks&lt;/strong>&lt;/h3>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;span class="lnt">6
+&lt;/span>&lt;span class="lnt">7
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">skills&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="s2">&amp;#34;languages&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="p">[&lt;/span>&lt;span class="s2">&amp;#34;Python&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;SQL&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;Scala&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;Java&amp;#34;&lt;/span>&lt;span class="p">],&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="s2">&amp;#34;big_data&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="p">[&lt;/span>&lt;span class="s2">&amp;#34;Apache Spark&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;Delta Lake&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;Kafka&amp;#34;&lt;/span>&lt;span class="p">],&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="s2">&amp;#34;cloud&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="p">[&lt;/span>&lt;span class="s2">&amp;#34;Azure&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;AWS&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;GCP&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;Databricks&amp;#34;&lt;/span>&lt;span class="p">],&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="s2">&amp;#34;databases&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="p">[&lt;/span>&lt;span class="s2">&amp;#34;PostgreSQL&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;MongoDB&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;Snowflake&amp;#34;&lt;/span>&lt;span class="p">],&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="s2">&amp;#34;tools&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="p">[&lt;/span>&lt;span class="s2">&amp;#34;Docker&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;Kubernetes&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;Terraform&amp;#34;&lt;/span>&lt;span class="p">,&lt;/span> &lt;span class="s2">&amp;#34;Git&amp;#34;&lt;/span>&lt;span class="p">]&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="specializations">&lt;strong>Specializations&lt;/strong>&lt;/h3>
+&lt;ul>
+&lt;li>📊 &lt;strong>Data Pipeline Architecture&lt;/strong> - Building scalable ETL/ELT solutions&lt;/li>
+&lt;li>🔄 &lt;strong>Real-time Processing&lt;/strong> - Stream processing with Kafka and Spark&lt;/li>
+&lt;li>🏗️ &lt;strong>Data Lake Design&lt;/strong> - Modern data lake architectures with Delta Lake&lt;/li>
+&lt;li>📈 &lt;strong>Performance Optimization&lt;/strong> - Tuning Spark jobs for maximum efficiency&lt;/li>
+&lt;/ul>
+&lt;h2 id="-what-drives-me">🎯 What Drives Me&lt;/h2>
+&lt;p>I believe that &lt;strong>data is the new oil&lt;/strong>, but only when it&amp;rsquo;s refined properly. My passion lies in:&lt;/p></description></item><item><title/><link>https://blog.dhanuja.com/posts/my-first-post/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://blog.dhanuja.com/posts/my-first-post/</guid><description/></item></channel></rss>
